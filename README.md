@@ -83,7 +83,7 @@ ls
 ----------
 
 
-##ФАЙЛЫ ЗАВИСИМОСТЕЙ :
+<h3>ФАЙЛЫ ЗАВИСИМОСТЕЙ :</h3>
 
 ``` npm init ```       или   ``` touch package.json ``` 
 </br>
@@ -266,7 +266,7 @@ npm cache clean ~/
 ```
 ----------
 
-<h2>INDEX.JADE</h2>
+<h3>INDEX.JADE</h3>
 
 ```
 include template/_head
@@ -284,7 +284,7 @@ body
 ----------
 
 
-<h2>GULPFILE.JS</h2>
+<h3>GULPFILE.JS</h3>
 
 Используем строгий режим (чтобы не было ошибок):
 ```
