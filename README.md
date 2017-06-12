@@ -266,7 +266,7 @@ npm cache clean ~/
 ```
 ----------
 
-##INDEX.JADE
+<h2>INDEX.JADE</h2>
 
 ```
 include template/_head
@@ -284,7 +284,7 @@ body
 ----------
 
 
-##GULPFILE.JS
+<h2>GULPFILE.JS</h2>
 
 Используем строгий режим (чтобы не было ошибок):
 ```
