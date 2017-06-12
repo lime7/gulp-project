@@ -267,6 +267,7 @@ npm cache clean ~/
 ----------
 
 ##INDEX.JADE
+
 ```
 include template/_head
 body
